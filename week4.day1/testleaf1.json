@@ -1,0 +1,22 @@
+[
+   {
+      "name": "Gopinath Jayakumar",
+      "pay": 0,
+      "Exp": "10+",
+      "is_nothing": false,
+      "hobbies": [
+         "sleeping",
+         "nothing"
+      ]
+   },
+   {
+      "name": "Babu",
+      "pay": 1,
+      "Exp": 17,
+      "is_nothing": false,
+      "hobbies": [
+         "always reading",
+         "experiment"
+      ]
+   }
+]
